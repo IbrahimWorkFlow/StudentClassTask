@@ -1,0 +1,14 @@
+C:\Users\ibrah\OneDrive\Desktop\Real\AB101\ClassSchoolTask\ClassSchoolTask\bin\Debug\net8.0\ClassSchoolTask.exe
+C:\Users\ibrah\OneDrive\Desktop\Real\AB101\ClassSchoolTask\ClassSchoolTask\bin\Debug\net8.0\ClassSchoolTask.deps.json
+C:\Users\ibrah\OneDrive\Desktop\Real\AB101\ClassSchoolTask\ClassSchoolTask\bin\Debug\net8.0\ClassSchoolTask.runtimeconfig.json
+C:\Users\ibrah\OneDrive\Desktop\Real\AB101\ClassSchoolTask\ClassSchoolTask\bin\Debug\net8.0\ClassSchoolTask.dll
+C:\Users\ibrah\OneDrive\Desktop\Real\AB101\ClassSchoolTask\ClassSchoolTask\bin\Debug\net8.0\ClassSchoolTask.pdb
+C:\Users\ibrah\OneDrive\Desktop\Real\AB101\ClassSchoolTask\ClassSchoolTask\obj\Debug\net8.0\ClassSchoolTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\OneDrive\Desktop\Real\AB101\ClassSchoolTask\ClassSchoolTask\obj\Debug\net8.0\ClassSchoolTask.AssemblyInfoInputs.cache
+C:\Users\ibrah\OneDrive\Desktop\Real\AB101\ClassSchoolTask\ClassSchoolTask\obj\Debug\net8.0\ClassSchoolTask.AssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Desktop\Real\AB101\ClassSchoolTask\ClassSchoolTask\obj\Debug\net8.0\ClassSchoolTask.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Desktop\Real\AB101\ClassSchoolTask\ClassSchoolTask\obj\Debug\net8.0\ClassSchoolTask.dll
+C:\Users\ibrah\OneDrive\Desktop\Real\AB101\ClassSchoolTask\ClassSchoolTask\obj\Debug\net8.0\refint\ClassSchoolTask.dll
+C:\Users\ibrah\OneDrive\Desktop\Real\AB101\ClassSchoolTask\ClassSchoolTask\obj\Debug\net8.0\ClassSchoolTask.pdb
+C:\Users\ibrah\OneDrive\Desktop\Real\AB101\ClassSchoolTask\ClassSchoolTask\obj\Debug\net8.0\ClassSchoolTask.genruntimeconfig.cache
+C:\Users\ibrah\OneDrive\Desktop\Real\AB101\ClassSchoolTask\ClassSchoolTask\obj\Debug\net8.0\ref\ClassSchoolTask.dll
